@@ -1,17 +1,17 @@
 [
   {
-    "datetime": 1790554576,
+    "datetime": 1790567627,
     "type": "UNOFFICIAL",
     "version": "23.2",
     "files": [
       {
-        "filename": "lineage-23.2-20260928-UNOFFICIAL-rtx.zip",
-        "sha256": "59f33e714f395ae21abd8d429ff9a35d8a7c9b523773a9544e3ff860fdaf30fd",
-        "size": 1060784575,
-        "url": "https://github.com/myorg1091/testing/releases/download/1790554576/lineage-23.2-20260928-UNOFFICIAL-rtx.zip",
+        "filename": "lineage-23.2-20260928-EXPERIMENTAL-rtx.zip",
+        "sha256": "ae06c961695359238c56d09ea7b3f27f85be70bdbb62a541dd140882b58b9abd",
+        "size": 1060784379,
+        "url": "https://github.com/myorg1091/testing/releases/download/1790567627/lineage-23.2-20260928-EXPERIMENTAL-rtx.zip",
         "os_patch_level": "2026-09-01",
         "os_sdk_level": 36,
-        "ota_property_files": "payload_metadata.bin:3239:138124,payload.bin:3239:1060778323,payload_properties.txt:1060781620:156,apex_info.pb:1631:1101,care_map.pb:2779:413,metadata:69:675,metadata.pb:812:771"
+        "ota_property_files": "payload_metadata.bin:3239:138124,payload.bin:3239:1060778127,payload_properties.txt:1060781424:156,apex_info.pb:1631:1101,care_map.pb:2779:413,metadata:69:675,metadata.pb:812:771"
       }
     ]
   }
