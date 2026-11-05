@@ -1,0 +1,18 @@
+[
+  {
+    "datetime": 1793872823,
+    "type": "17A1",
+    "version": "24.0",
+    "files": [
+      {
+        "filename": "lineage-24.0-20261105-STABLE-rtx.zip",
+        "sha256": "c516feb0ac36aa84edc58e099320a1bf50c585a7c0e176e3c7e88605881638e9",
+        "size": 1285080872,
+        "url": "https://github.com/myorg1091/testing/releases/download/1793872823/lineage-24.0-20261105-STABLE-rtx.zip",
+        "os_patch_level": "2026-10-01",
+        "os_sdk_level": 37,
+        "ota_property_files": "payload_metadata.bin:3357:138824,payload.bin:3357:1285074502,payload_properties.txt:1285077917:156,apex_info.pb:1623:1165,care_map.pb:2835:475,metadata:69:675,metadata.pb:812:763"
+      }
+    ]
+  }
+]
